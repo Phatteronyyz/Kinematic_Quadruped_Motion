@@ -1,1 +1,1 @@
-# Kinematic_Quadruple_Motion
+# Kinematic_Quadruped_Motion
